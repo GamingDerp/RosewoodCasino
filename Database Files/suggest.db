@@ -1,0 +1,1 @@
+// Suggest Database, this is just for show, but it's to show that there's a .db file for it. Bot uses aiosqlite to write into this.
