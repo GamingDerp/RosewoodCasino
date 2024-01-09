@@ -1,0 +1,2 @@
+# RosewoodCasino
+Casino discord bot
