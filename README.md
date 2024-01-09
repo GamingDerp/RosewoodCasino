@@ -10,7 +10,7 @@
 
 - 📌 **General:** `Help`, `Info`, `Test`, `Ping`, `Suggest`, `Poll`
 - 🎳 **Games:** 
-- ⚙️ **Config:** `SetPrefix`, `SetLog`, `SetStar`, `SetSuggest`
+- ⚙️ **Config:** `SetLog`, `SetSuggest`
 - **Full list of commands:** [Here]()
 
 # 📑 Credit
