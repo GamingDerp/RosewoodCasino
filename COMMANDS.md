@@ -21,7 +21,7 @@ duelflip | Challenges another user to a coinflip duel | `duelflip <user> <bet>`
 slots | Plays a game of slots | `slots <bet>`
 crash | Starts a game of crash | `crash`
 buy | Buys into an ongoing crash game | `buy <bet>`
-out | Gets out of an ongoing craash game | `out`
+out | Gets out of an ongoing crash game | `out`
 blackjack | Starts a game of blackjack | `blackjack <bet>`
 roulette | Plays a game of roulette [Can only choose one option at a time] | `roulette <bet> <color> <number> <odds>`
 sixes | Plays a game of sixes | `sixes`
