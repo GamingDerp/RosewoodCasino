@@ -6,7 +6,7 @@
 ***RosewoodCasino*** is a single-server discord casino bot, meant for Stoneworks MC players to use to ~~gamble~~ play games and earn money!
 
 # 📋 Features
-**[]** commands across **3** different categories..
+**38** commands across **4** different categories..
 
 - 📌 **General:** `Help`, `Info`, `Test`, `Ping`, `Suggest`, `FeeCalc`
 - 🎳 **Games:** `CoinFlip`, `DuelFlip`, `Slots`, `Crash`, `Blackjack`, `Roulette` **+4 More**
