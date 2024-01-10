@@ -8,12 +8,11 @@
 # 📋 Features
 **[]** commands across **3** different categories..
 
-- 📌 **General:** `Help`, `Info`, `Test`, `Ping`, `Suggest`, `Poll`
-- 🎳 **Games:** 
-- ⚙️ **Config:** `SetLog`, `SetSuggest`
-- **Full list of commands:** [Here]()
+- 📌 **General:** `Help`, `Info`, `Test`, `Ping`, `Suggest`, `FeeCalc`
+- 🎳 **Games:** `CoinFlip`, `DuelFlip`, `Slots`, `Crash`, `Blackjack`, `Roulette` **+4 More**
+- 📰 **Account:** `CreateAccount`, `DeleteAccount`, `Balance`, `Pay`, `Baltop`
+- ⚙️ **Staff:** `Deposit`, `Withdraw`, `SetSuggest`, `ListBalance`, `Poll`, `Giveaway` **+11 More**
+- **Full list of commands:** [Here](https://github.com/GamingDerp/RosewoodCasino/blob/main/COMMANDS.md)
 
 # 📑 Credit
 - `gamingderp` - Developer
-
-[ This README is a work in progress ]
