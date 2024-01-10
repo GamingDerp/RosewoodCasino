@@ -1,5 +1,5 @@
 [![python - 3.11.2](https://img.shields.io/badge/python-3.11.2-0096FF?logo=Python)](https://)
-[![discord.py - 2.3.1](https://img.shields.io/badge/discord.py-2.3.1-FFFF00?logo=Python)](https://github.com/Rapptz/discord.py)
+[![discord.py - 2.3.2](https://img.shields.io/badge/discord.py-2.3.2-FFFF00?logo=Python)](https://github.com/Rapptz/discord.py)
 
 
 # 🌸 RosewoodCasino 🌸
