@@ -39,11 +39,8 @@ baltop | Shows the top ten users with the highest balance | `baltop`
 ## ⚙️ Staff
 Command | Description | Usage
 --- | --- | ---
-postverify | Posts the verification embed | `!postverify`
-selfroles | Posts the selfroles embed | `!selfroles`
 setsuggest | Sets the suggestion channel | `setsuggest`
 setlog | Sets the logging channel | `setlog <channel>`
-posttutorial | Posts the tutorial embed | `!posttutorial`
 giveaway | Creates a giveaway | `giveaway <time> <time> <winners> <prize>`
 createbet | Creates a bet [Minimum of 2 sides needed] | `createbet <time_limit> <side1> <side1_odds> <side2> <side2_odds> <etc> <etc>` 
 winner | Sets the winning side of the bet | `winner <side_name>`
@@ -56,6 +53,9 @@ listbalance | Lists the balance of a casino account [Only use one option at a ti
 depositlog | Creates a "deposit log" [Be sure to read the questions, be prepared] | `depositlog`
 withdrawlog | Creates a "withdraw log" [Be sure to read the questions, be prepared] | `withdrawlog`
 poll | Creates a poll [Up to 5 options] | `poll <question> <option1> <option2> <etc>`
+postverify | Posts the verification embed | `!postverify`
+selfroles | Posts the selfroles embed | `!selfroles`
+posttutorial | Posts the tutorial embed | `!posttutorial`
 reload | Reloads a cog | `!reload <cog_name>`
 loadcog | Loads a cog | `!loadcog <cog_name>`
 unloadcog | Unloads a cog | `!unloadcog <cog_name>`
