@@ -16,3 +16,6 @@
 
 # 📑 Credit
 - `gamingderp` - Developer
+
+# 📝 Comments
+If you don't want to use `depositlog` or `withdrawlog` commands, you don't need to use the `withdraw` and `deposit` databases.
