@@ -18,4 +18,4 @@
 - `gamingderp` - Developer
 
 # 📝 Comments
-If you don't want to use `depositlog` or `withdrawlog` commands, you don't need to use the `withdraw` and `deposit` databases.
+If you don't want to use `depositlog` or `withdrawlog` commands, you don't need to use the `withdraw` and `deposit` databases. Aswell as the suggestion commands, and logging events, you can then remove those aswell.
