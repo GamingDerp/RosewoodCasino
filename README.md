@@ -1,5 +1,5 @@
-[![python - 3.11.2](https://img.shields.io/badge/python-3.11.2-0096FF?logo=Python)](https://)
-[![discord.py - 2.3.2](https://img.shields.io/badge/discord.py-2.3.2-FFFF00?logo=Python)](https://github.com/Rapptz/discord.py)
+[![python - 3.12.4](https://img.shields.io/badge/python-3.12.4-0096FF?logo=Python)](https://www.python.org/downloads/release/python-3124/)
+[![discord.py - 2.4.0](https://img.shields.io/badge/discord.py-2.4.0-FFFF00?logo=Python)](https://github.com/Rapptz/discord.py)
 
 
 # 🌸 RosewoodCasino 🌸
