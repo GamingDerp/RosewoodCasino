@@ -44,7 +44,7 @@ class Dropdown(discord.ui.Select):
         options = [
             discord.SelectOption(label="General Commands",description="Help, Info, Test, Ping, Suggest, Giveaway +1 More", emoji="📌"),
             discord.SelectOption(label="Game Commands",description="Coinflip, DuelFlip, Slots, Crash, Buy, Out +3 More", emoji="💸"),
-            discord.SelectOption(label="Account Commands",description="CreateAccount, DeleteAccount, Balance, Pay, Baltop, Blackjack", emoji="🧾"),
+            discord.SelectOption(label="Account Commands",description="CreateAccount, DeleteAccount, Balance, Pay, Baltop", emoji="🧾"),
         ]
         super().__init__(min_values=1, max_values=1, options=options)
 
