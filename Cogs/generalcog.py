@@ -286,7 +286,8 @@ class GeneralCog(commands.Cog):
             e.set_thumbnail(url="https://media.discordapp.net/attachments/1163615932489416804/1163640941018624050/RosewoodLogo.png?ex=65405013&is=652ddb13&hm=211bd6a1ddc6e4d0587d0d99962b228d50d802a18395ffb38828752e5db12fb9&=")
             e.add_field(
                 name="✧ __Server__",
-                value=f"> **Suggestion:** {suggestion_channel.mention if suggestion_channel else 'None'}",
+                value=f"> **Suggestion:** {suggestion_channel.mention if suggestion_channel else 'None'}"
+		      f"\n> **Logging:** {logging_channel.mention if logging_channel else 'None'}",
                 inline=False
             )
             e.add_field(
